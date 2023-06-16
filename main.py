@@ -20,7 +20,7 @@ class HelloWorld(FlowLauncher):
                 "IcoPath": "Images/app.png",
                 "JsonRPCAction": {
                     "method": "open_url",
-                    "parameters": ["https://github.com/Flow-Launcher/Flow.Launcher"]
+                    "parameters": ["https://github.com/AdnaneSaber/flow-password-manager"]
                 }
             }
         ]
@@ -33,7 +33,7 @@ class HelloWorld(FlowLauncher):
                 "IcoPath": "Images/app.png",
                 "JsonRPCAction": {
                     "method": "open_url",
-                    "parameters": ["https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldPython"]
+                    "parameters": ["https://github.com/AdnaneSaber/flow-password-manager"]
                 }
             }
         ]
